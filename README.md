@@ -1,6 +1,6 @@
 # Kanban Board
 
-A task management application built with React and TypeScript that helps organize tasks into workflow stages, manage priorities, and track progress using a Kanban board.
+A task management application built with React and TypeScript that helps organize tasks into workflow stages, manage priorities, and track progress using a Kanban board. 
 
 ## Live Demo
 
